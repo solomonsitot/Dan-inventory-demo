@@ -5,6 +5,9 @@ This is a simple inventory management system designed for testing backend functi
 => editing item details
 => deleting items. 
 =>Additionally, we have a basic dashboard page to view key metrics.
+
+## Don't forget to run npm install in both frontend and backend folder to install all the dependencies
+
 ![dasboard](https://github.com/solomonsitot/Dan-inventory/blob/main/dashboard.png)
 ![adding page](https://github.com/solomonsitot/Dan-inventory/blob/main/add.png)
 ![store page](https://github.com/solomonsitot/Dan-inventory/blob/main/store.png)
