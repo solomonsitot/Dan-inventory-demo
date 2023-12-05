@@ -1,0 +1,9 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.flex{
+    display: flex;
+    gap: 40px;
+}
