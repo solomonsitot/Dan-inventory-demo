@@ -15,7 +15,7 @@ const total=sold*price
         e.preventDefault();
         try {
             alert('sold successfully')
-          const response = await fetch(`http://localhost:8000//Products/sell/${Id}`, {
+          const response = await fetch(`http://localhost:8000/Products/sell/${Id}`, {
             method: 'PUT',
             headers: {
               'Content-Type': 'application/json',
