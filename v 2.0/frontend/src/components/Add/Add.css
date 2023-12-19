@@ -1,0 +1,65 @@
+.add-wrapper{
+    background-color: rgb(241, 241, 241) !important;
+    /* padding-bottom: 83vh; */
+}
+h3{
+    margin-bottom: 10px;
+}
+.forms{
+    background-color: white;
+    /* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); */
+    width:50%; 
+    padding: 10px;
+    margin-top: 15px; 
+    overflow-x: hidden;
+    overflow-y: scroll;
+    max-height: 79vh; 
+}
+.infos{
+    padding: 10px;
+}
+.forms input,.forms option,.forms textarea{
+    margin:10px 0px;
+    width: 100%;
+    margin-left: 10px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(71, 235, 71) ;
+}
+.img-wrap{
+    position: relative;
+    overflow: hidden;
+    display: inline-block;}
+.image-input{
+    position: absolute;
+  font-size: 100px;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+.custom-button{
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+}
+.forms label{
+    color: rgb(0, 153, 255);
+    font-weight: 500;
+    margin-right: 12px;
+}
+.btn{
+    margin: 10px;
+    background-color: lawngreen;
+    font-weight: bold;
+}
+.choosen-image{
+    margin-top: 10px;
+    width: 180px;
+    height: 130px;
+}

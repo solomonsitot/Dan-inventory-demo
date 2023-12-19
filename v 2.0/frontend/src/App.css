@@ -1,0 +1,9 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.app-wrapper{
+    background-color: rgb(241, 241, 241);
+    padding: 15px 0px;
+}

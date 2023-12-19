@@ -1,0 +1,45 @@
+.price{
+    float: left;
+    
+}
+.amount,button{
+    margin-left: 5px;
+
+}
+.amount{
+    width: 80px;
+    margin-right: 25px;
+    border: none;
+    padding: 2px;
+    border-radius: 5px;
+}
+.sell-wrapper{
+    display: flex;
+    justify-content: center;
+
+}
+form{
+    background-color: rgb(233, 233, 233);
+    padding: 15px 100px;
+    margin: 10px;
+    float: left;
+    border-radius: 15px;
+    width: auto;
+    
+}
+h1{
+    color:rgb(22, 218, 22);
+}
+
+button{
+    align-self: center;
+    padding: 6px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: lawngreen;
+}
+.green{
+    font-weight: bolder;
+    color:red;
+    font-size: larger;
+}

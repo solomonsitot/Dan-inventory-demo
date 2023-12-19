@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-wrapper{
+    margin-right:15px ;
+    height: 85vh;
+    background-color: limegreen;
+     width:200px;
+     float: left;   
+}
+
+
+.menu a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight:500;
+    padding: 5px;
+}
+.menu div{
+    padding: 15px;
+    margin: 5px 0px ;
+}
+.side-menu:hover{
+    background-color: rgb(27, 197, 27);
+    border: solid 1px rgb(201, 195, 195);
+    border-right: solid 6px  rgb(70, 206, 216);
+    transition: 0.2s ease-in-out;
+}
+
+.menu img{
+    height: 30px;
+    margin-right: 2px;
+}
+.card{
+    
+    padding: 0px;
+    margin: 30px;
+}
+.card-img{
+    height: 160px;
+    
+}
+.card p{
+    font-size: small;
+    font-weight: bold;
+    margin: 2px;
+}
+.card-actions{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+.card-actions img{
+    height: 40px;
+}

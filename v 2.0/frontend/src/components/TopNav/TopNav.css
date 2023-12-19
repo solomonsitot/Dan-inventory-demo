@@ -1,0 +1,16 @@
+.top-nav{
+    background-color: rgb(255, 255, 255);
+    padding: 0px 0px;
+    color: lime;
+    text-align: center;
+    position: sticky;
+    margin: 0;
+}
+
+h1{
+    margin: 0 !important;
+    text-align: center;
+    font-weight: bold !important;
+    -webkit-text-stroke: black 0.5px;
+    padding: 20px;
+}
