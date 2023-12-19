@@ -54,18 +54,5 @@ Experience enhanced image handling capabilities thanks to our integration with M
 4. Toggle between table and card views to suit your preferred data representation.
 5. Take advantage of improved image handling when managing your inventory items.
 
-## Contributing
 
-We welcome contributions from the community! If you have ideas for new features, bug fixes, or general improvements, feel free to submit a pull request.
-
-## Issues
-
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/yourusername/dan-inventory-v2/issues) on GitHub. We appreciate your feedback!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) – see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Thank you for choosing Dan Inventory Project v2. We hope these updates enhance your inventory management experience and contribute to increased efficiency in your day-to-day operations. Happy managing!
+Thank you for choosing Dan Inventory Project v2. We hope these updates enhance your inventory management experience and contribute to increased efficiency. Happy managing!
