@@ -8,11 +8,11 @@ This is a simple inventory management system designed for testing backend functi
 
 ## Don't forget to run npm install in both frontend and backend folder to install all the dependencies
 
-![dasboard](https://github.com/solomonsitot/Dan-inventory/blob/main/dashboard.png)
-![adding page](https://github.com/solomonsitot/Dan-inventory/blob/main/add.png)
-![store page](https://github.com/solomonsitot/Dan-inventory/blob/main/store.png)
-![selling page](https://github.com/solomonsitot/Dan-inventory/blob/main/sell.png)
-![edit page](https://github.com/solomonsitot/Dan-inventory/blob/main/edit.png)
+![dasboard](https://github.com/solomonsitot/Dan-inventory/blob/main/v%201.0/dashboard.png)
+![adding page](https://github.com/solomonsitot/Dan-inventory/blob/main/v%201.0/add.png)
+![store page](https://github.com/solomonsitot/Dan-inventory/blob/main/v%201.0/store.png)
+![selling page](https://github.com/solomonsitot/Dan-inventory/blob/main/v%201.0/sell.png)
+![edit page](https://github.com/solomonsitot/Dan-inventory/blob/main/v%201.0/store.png)
 
 # Dummy Frontend
 The dummy frontend provides a basic user interface to interact with the backend. It includes forms for adding, selling, and editing items. The dashboard page displays key metrics.
